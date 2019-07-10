@@ -1,0 +1,1 @@
+{"rules":{"twitter username":{"tag":"a","attributes":[{"name":"href","fixedValue":"http://twitter.com/","textValue":true}]},"entity":{"tag":"strong","attributes":[]},"links":{"tag":"a","attributes":[{"name":"href","fixedValue":"","textValue":true}]}}}
