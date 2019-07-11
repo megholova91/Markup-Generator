@@ -4,8 +4,8 @@ Module to generate formatted text given a feed string and concepts for it.
 # Running locally
 
 ```sh
-git clone 
-cd 
+git clone https://github.com/megholova91/Markup-Generator.git
+cd Markup-Generator
 npm i
 npm start
 ```
