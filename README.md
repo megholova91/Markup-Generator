@@ -9,3 +9,7 @@ cd Markup-Generator
 npm i
 npm start
 ```
+Server starts on localhost:8000
+
+## API Reference 
+https://github.com/megholova91/Markup-Generator/wiki
